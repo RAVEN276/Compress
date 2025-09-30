@@ -2,7 +2,7 @@
 # Nama File: video_compressor_app.py
 # Deskripsi: Aplikasi GUI untuk kompresi video dengan target ukuran file.
 # Versi: 0.1.0 (Beta)
-# Author: GitHub Copilot
+# Author: Verxina
 
 import tkinter
 import tkinter.filedialog as filedialog
