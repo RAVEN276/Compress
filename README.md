@@ -1,4 +1,4 @@
-# Video Compressor (Beta)
+# FastCompress (Beta)
 
 Aplikasi GUI ringan dan modern untuk mengompresi video berdasarkan target ukuran file. Dibuat dengan Python (CustomTkinter) dan memanfaatkan FFmpeg sebagai mesin encoding.
 

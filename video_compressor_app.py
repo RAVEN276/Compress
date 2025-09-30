@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # Nama File: video_compressor_app.py
-# Deskripsi: Aplikasi GUI untuk kompresi video dengan target ukuran file.
 # Versi: 0.1.0 (Beta)
 # Author: Verxina
 
@@ -25,7 +24,7 @@ class VideoCompressorApp(ctk.CTk):
         super().__init__()
 
         # --- Konfigurasi Window ---
-        self.title(f"Video Compressor {APP_CHANNEL} v{APP_VERSION}")
+        self.title(f"FastCompress {APP_CHANNEL} v{APP_VERSION}")
         self.geometry("800x750")
         self.resizable(False, False)
 
