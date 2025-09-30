@@ -15,6 +15,8 @@ import os
 import sys
 
 # --- Konfigurasi Dasar ---
+APP_VERSION = "0.1.0"
+APP_CHANNEL = "Beta"
 ctk.set_appearance_mode("Dark")
 ctk.set_default_color_theme("blue")
 
@@ -23,7 +25,7 @@ class VideoCompressorApp(ctk.CTk):
         super().__init__()
 
         # --- Konfigurasi Window ---
-        self.title("Video Compressor Beta v0.1")
+        self.title(f"Video Compressor {APP_CHANNEL} v{APP_VERSION}")
         self.geometry("800x750")
         self.resizable(False, False)
 
