@@ -2,7 +2,7 @@
 
 Aplikasi GUI ringan dan modern untuk mengompresi video berdasarkan target ukuran file. Dibuat dengan Python (CustomTkinter) dan memanfaatkan FFmpeg sebagai mesin encoding.
 
-Versi saat ini: 0.1.0 (Beta)
+Versi saat ini: 0.1.2 (Beta)
 
 Executable (EXE) tersedia untuk Windows (dibangun dengan PyInstaller). Anda juga bisa menjalankan langsung via Python.
 
