@@ -1,0 +1,7 @@
+{
+  "codec": "H.265",
+  "encoder_type": "Intel",
+  "algorithm": "Standard",
+  "audio_mode": "Copy",
+  "target_mb": "50"
+}
